@@ -1,0 +1,24 @@
+đăng bài: 
+* điều kiện 
+- kí tự: từ 1 kí tự đến 1000 kí tự(a-z;A-Z,kí tự đặc biệt: !,@,...; 1-9, icon, ...
+- đăng 1 ảnh 
+- 3s đăng bài 
+- 1S like bài
+- 3s gửi comment
+- 3s chia sẻ bài viết
+- 1s xóa commment 
+- 1s sửa bình luận
+* mục đích:
+- thanh trạng thái:
++ avata( từ thanh trạng thái click vào avata sẽ chuyển sang trang cá nhân của mình)
++ khung đăng bài:
++ nút thêm ảnh:
++ nút chia sẻ:
+- bài đã dăng:
++ hiển thị thời gian đăng bài 
++ nút tùy chọn :
+nút chỉnh sửa bài viết: sửa bài viết, tải ảnh lên, nút đóng, nút xác nhận
+nút xóa bài viết
++nút like
++nút bình luận: viết bình luận, nút gửi bình luận, comment(nút tùy chọn gồm: nút chỉnh sửa (sửa bình luận,nút hủy, nút gửi), nút xóa bình luận)
++nút chia sẻ

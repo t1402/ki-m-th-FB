@@ -1,0 +1,33 @@
+từ trang giao diện chính click vào avata của mình sẽ chuyển sang trang cá nhân của mình
+- chỉnh sửa ảnh bìa(3s-5s cập nhật ảnh đã chính sửa): 
++ tải ảnh lên 
++ xác nhận 
++ đóng chỉnh sửa ảnh bìa
+- chỉnh sửa ảnh đại diện (3s-5s cập nhật ảnh đã chính sửa):
++ tải ảnh lên 
++ xác nhận 
++ đóng chỉnh sửa ảnh đại diện
+- chỉnh sửa thông tin(3 giây cập nhật thông tin đã chỉnh sửa)
++ họ tên:
++ nick name:
++ mô tả:
++ ngày sinh:
++ đóng
++ xác nhận
+- đổi mật khẩu(3 giây cập nhật mật khẩu đã chỉnh sửa):
++ nhập mật khẩu hiện tại 
++ nhập mật khẩu mới
++ nhập lại mật khẩu mới
++ đóng 
++ xác nhận 
+- đăng xuất( tại trang cá nhân click vào nút đăng xuất sẽ chuyển sang trang đăng nhập)
+- bài đã dăng:
++ hiển thị thời gian đăng bài 
++ nút tùy chọn :
+nút chỉnh sửa bài viết: sửa bài viết, tải ảnh lên, nút đóng, nút xác nhận
+nút xóa bài viết
++nút like
++nút bình luận: viết bình luận, nút gửi bình luận, comment(nút tùy chọn gồm: nút chỉnh sửa (sửa bình luận,nút hủy, nút gửi), nút xóa bình luận)
++nút chia sẻ
+- nút lên đầu trang( khi click vào nút thì nó sẽ chuyển lên trên đầu tra cá nhân)
+ 

@@ -1,0 +1,11 @@
+trên thanh công cụ:
++ khi click vào icon trang chủ sẽ hiện lên đầu trang của trang chủ )
++ khi click vào icon avata sẽ chuyển sang trang cá nhân
++ khi click vào icon bạn bè sẽ chuyển sang danh sách bạn bè
+- khi click vào icon dashboard sẽ chuyển sang trang thống kê
++ khi click vào icon đoạn chat sẽ hiện ra trang đoạn chat
++ khi click vào icon thông báo sẽ hiện tra trang thông báo 
++ khi click vào thanh danh sách lời mời sẽ hiện ra danh sách lời mới kết bạn 
++ trên trang chủ hiển thị danh sách người dùng đang online, khi click vào avt thì chuyển sang trang cá nhân 
++ khi click vào icon đăng xuất sẽ chuyển sang trang đăng nhập
++ thanh tìm kiếm: khi click vào thanh-> nhập từ cần tìm-> enter

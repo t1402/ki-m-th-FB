@@ -1,0 +1,5 @@
+- nút đóng
+- thanh tìm bạn 
+- thanh bạn bè( khi click vào thanh bạn bè sẽ chuyển sang trang chủ của người đó)
+- nút hủy 
+- nút xác nhận(1-3s xn)

@@ -1,0 +1,6 @@
+*từ trang chủ click vào bạn bè ra trang ds bạn bè
+
+- nút đóng
+- thanh tìm bạn 
+- thanh bạn bè( khi click vào thanh bạn bè sẽ chuyển sang trang chủ của người đó)
+- nút hủy kết bạn (1s hủy)

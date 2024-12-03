@@ -1,0 +1,23 @@
+* thanh người dùng( khi click vào thì hiện ra form đoạn chat)
+- khi click vào avt hoặc tên người dùng sẽ hiện ra trang cá nhân 
+- nút camera: 
+khi click vào sẽ hiển thị (người gọi):
++ nút kết thúc: khi bấm kết thúc sẽ hiển thị ra 2 nút (gọi lại, trang chủ)
+người nhận nút nghe: khi bấm nghe sẽ hiển thị ra giao diện 2 người dùng
++ người nhận sẽ hiển thị 2 nút(nút kết thúc và nút nhận )
+- nút -:
+- nút x: 
+- ô nhắn tin:
+- nút gửi: 
+* nút phóng to:
+khi click vào sẽ hiển thị:
+- icon trang chủ
+-  thanh tìm kiếm 
+- thanh người dùng
+- ô nhập tin nhắn:
+- nút gửi:
+- nút cammera
+khi click vào sẽ hiển thị (người gọi):
++ nút kết thúc: khi bấm kết thúc sẽ hiển thị ra 2 nút (gọi lại, trang chủ)
+người nhận nút nghe: khi bấm nghe sẽ hiển thị ra giao diện 2 người dùng
++ người nhận sẽ hiển thị 2 nút(nút kết thúc và nút nhận )
